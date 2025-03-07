@@ -1,23 +1,10 @@
-## USACO
+## Overview
 
-This repository's purpose is to document my journey of practicing USACO problems and completing in contests. 
+This repository's purpose is to document my journey of practicing [USACO](usaco.org) problems and completing in contests. 
 
-## Repository Structure
+The repository is structured into divisions, which is further divided into different difficulties of problems. There will also be a `contest` folder that contains the solutions to previous contests that I've participated in, although they will likely be post-contest upsolves. 
 
-The repository is structured into divisions, which is further divided into different difficulties of problems as well as a `contest` folder which contains the previous USACO contests that I've participated in. 
-
-Each problem folder contains the source code where there will be a heading in each of the source code files formatted like below...
-
-```cpp
-/*
-USACO [DIVISION] [YEAR]: [TITLE] [DIFFICULTY]
-[LINK TO PROBLEM]
-*/
-```
-
-...that gives context to the problem.
-
-Additionally, each source file for the problems done during the contest will contain the results during the contest, where a checkmark represents a passed test case, and a cross represents a wrong answer or time limit exceeded. 
+Each problem folder contains the source file for the problem, and each source file will contain a comment header that links to the original problem website. There will not be any guarantees for the quality or speed of my solutions. 
 
 ## Current Status
 
